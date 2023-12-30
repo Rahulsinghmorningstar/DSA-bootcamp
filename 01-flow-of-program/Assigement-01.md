@@ -1,4 +1,4 @@
-#Input a year and find whether it is a leap year or not.
+# Input a year and find whether it is a leap year or not.
 
 Steps:
 1. Start the program

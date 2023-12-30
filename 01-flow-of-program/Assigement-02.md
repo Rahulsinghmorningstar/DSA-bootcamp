@@ -1,4 +1,4 @@
-#Take two numbers and print the sum of both.
+# Take two numbers and print the sum of both.
 
 Steps:
 1. Start the program
